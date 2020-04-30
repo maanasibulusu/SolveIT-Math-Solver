@@ -5,7 +5,7 @@ SolveIT functions as a simple and interactive math solver. This software takes i
 
 How to Run the Project:
         
-All the executables are available at the calculator folder and must be executed from the same folder. To run this program, simply run the animation.py file. 
+All the executables are available at the calculator folder and must be executed from the same folder. You can download this folder from either the finaltp zip file or mbulusu@andrew.cmu_tp_2 zip file. To run this program, simply run the animation.py file. 
 
 Within the calculator folder, ensure that the following folders and files are within it: ‘derviative_integral.py’, ‘rootstesting.py’, ‘rangefinal.py’, ‘animation.py’, ‘asymptote.py’, ‘asymptote1.py’, ‘cmu_112_graphics.py’, ‘solveIT.png’, ‘storyboard.pdf’, and ‘proposal.pdf’, and the folders: ‘users’, ‘graphs’, and ‘__pycache__’. 
  
